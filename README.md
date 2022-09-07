@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **DSA in Java, Web Development.**
 
-- 👨‍💻 All of my projects are available at [projects.yashgulatii.in](projects.yashgulatii.in)
+- 👨‍💻 All of my projects are available at [projects.yashgulatii.in](https://projects.yashgulatii.in)
 
-- 📝 I regularly write articles on [blog.yashgulatii.in](blog.yashgulatii.in)
+- 📝 I regularly write articles on [blog.yashgulatii.in](https://blog.yashgulatii.in)
 
 - 💬 Ask me about **Python, Java and JavaScript**
 
 - 📫 How to reach me **contactyashgulati@gmail.com**
 
-- 📄 Know about my experiences [resume.yashgulatii.in](resume.yashgulatii.in)
+- 📄 Know about my experiences [resume.yashgulatii.in](https://resume.yashgulatii.in)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
