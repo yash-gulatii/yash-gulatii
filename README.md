@@ -1,5 +1,10 @@
+[![MasterHead](https://i.postimg.cc/B6X3c42q/Github-Banner.png)](https://www.yashgulatii.in)
+
+
 <h1 align="center">Hi 👋, I'm Yash Gulati</h1>
 <h3 align="center">Web Developer | Java & Python Programmer | Film Maker</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif")
+
 
 - 🌱 I’m currently learning **DSA in Java, Web Development.**
 
@@ -35,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-gulatii&show_icons=true&theme=dark&locale=en" alt="yash-gulatii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-gulatii&" alt="yash-gulatii" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-gulatii&theme=dark" alt="yash-gulatii" /></p>
