@@ -20,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - What, Why, and How?](https://blog.yashgulatii.in/python-what-why-and-how)
+- [Python - What, Why, and How?](https://blog.yashgulatii.in/python-what-why-and-how)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
