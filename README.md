@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA in Java, Web Development.**
 
-- 👨‍💻 All of my projects are available at [www.yashgulatii.in](www.yashgulatii.in)
+- 👨‍💻 All of my projects are available at [projects.yashgulatii.in](projects.yashgulatii.in)
 
 - 📝 I regularly write articles on [blog.yashgulatii.in](blog.yashgulatii.in)
 
