@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-gulatii&show_icons=true&theme=dark&locale=en&layout=compact" alt="yash-gulatii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-gulatii&show_icons=true&theme=dark&locale=en" alt="yash-gulatii" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yash-gulatii&show_icons=true&theme=dark&locale=en" alt="yash-gulatii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-gulatii&theme=dark" alt="yash-gulatii" /></p>
