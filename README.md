@@ -14,7 +14,6 @@
 - 📄 Know about my experiences [resume.yashgulatii.in](resume.yashgulatii.in)
 
 ### Blogs posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
