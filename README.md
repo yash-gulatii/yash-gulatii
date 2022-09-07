@@ -14,13 +14,7 @@
 - 📄 Know about my experiences [resume.yashgulatii.in](resume.yashgulatii.in)
 
 ### Blogs posts
-
 <!-- BLOG-POST-LIST:START -->
-- [Python - What, Why, and How?](https://blog.yashgulatii.in/python-what-why-and-how)
-- [Wassword: wonderful password generator built in Flutter](https://blog.albertobonacina.com/wassword-wonderful-password-generator-built-in-flutter)
-- [Building a Post Scheduling App with HarperDB &amp; Flutter](https://blog.albertobonacina.com/building-a-post-scheduling-app-with-harperdb-and-flutter)
-- [Create a Simple Responsive GridView with Flutter](https://blog.albertobonacina.com/create-a-simple-responsive-gridview-with-flutter)
-- [Create a Simple Contact App with Faker &amp; Flutter](https://blog.albertobonacina.com/create-a-simple-contact-app-with-faker-and-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
