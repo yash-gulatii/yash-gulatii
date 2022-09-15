@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **contactyashgulati@gmail.com**
 
-- 📄 Know about my experiences [resume.yashgulatii.in](https://resume.yashgulatii.in)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Python - What, Why, and How?](https://blog.yashgulatii.in/python-what-why-and-how)
