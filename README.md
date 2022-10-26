@@ -1,4 +1,3 @@
-[![MasterHead](https://i.postimg.cc/B6X3c42q/Github-Banner.png)](https://www.yashgulatii.in)
 
 
 <h1 align="center">Hi 👋, I'm Yash Gulati</h1>
