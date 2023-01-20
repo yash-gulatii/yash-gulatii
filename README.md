@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 
 
-- 🌱 I’m currently learning **DSA in Java, JavaScript.**
+- 🌱 I’m currently learning **DSA in Java, React and TypeScript.**
 
 - 👨‍💻 All of my projects are available at [projects.yashgulatii.in](https://projects.yashgulatii.in)
 
