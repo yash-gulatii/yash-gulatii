@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Web Development Projects for Beginners](https://blog.yashgulatii.in/top-10-web-development-projects)
 - [10 Essential Web Development Tools Every Developer Should Know in 2023](https://blog.yashgulatii.in/10-essential-web-development-tools-every-developer-should-know-in-2023)
 - [Python - What, Why, and How?](https://blog.yashgulatii.in/python-what-why-and-how)
 <!-- BLOG-POST-LIST:END -->
