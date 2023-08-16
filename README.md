@@ -6,10 +6,8 @@
 
 
 - 🌱 I’m currently learning **DSA in Java, React and TypeScript.**
-
-- 👨‍💻 All of my projects are available at [projects.yashgulatii.in](https://projects.yashgulatii.in)
-
-- 📝 I regularly write articles on [blog.yashgulatii.in](https://blog.yashgulatii.in)
+- 
+- 📝 I regularly write articles on [yashgulatii.hashnode.dev](https://yashgulatii.hashnode.dev/)
 
 - 💬 Ask me about **Python, Java and JavaScript**
 
