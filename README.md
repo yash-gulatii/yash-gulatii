@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2023: Get Involved in Open Source and Grow Your Skills](https://yashgulatii.hashnode.dev/hacktoberfest-2023-get-involved-in-open-source-and-grow-your-skills)
 - [Top 10 Web Development Projects for Beginners](https://yashgulatii.hashnode.dev/top-10-web-development-projects)
 - [10 Essential Web Development Tools Every Developer Should Know in 2023](https://yashgulatii.hashnode.dev/10-essential-web-development-tools-every-developer-should-know-in-2023)
 - [Python - What, Why, and How?](https://yashgulatii.hashnode.dev/python-what-why-and-how)
